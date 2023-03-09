@@ -1,5 +1,5 @@
 This project is on shell scripting.
-```bash
+```shell
 echo "Hey There"
 ```
 
