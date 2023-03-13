@@ -1,5 +1,2 @@
 #!/bin/bash
-echo -e "Hello, World
-"
-
-
+echo -e "Hello, World \x0A"
